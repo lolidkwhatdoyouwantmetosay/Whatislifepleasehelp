@@ -1,0 +1,63 @@
+h1, h2 {
+    font-family: 'Raleway', sans-serif;
+}
+h2 {
+    font-variant: small-caps
+}
+
+p, ul {
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.5px
+}
+.illdowhateveriwant {
+    font-size: 12px
+}
+
+
+span {
+    font-family: Papyrus;
+}
+
+a {
+    color: #0000cc;
+    text-decoration: none
+}
+a:hover {
+    text-decoration: underline
+}
+html {
+    background: url("vector-pattern-of-green-leaf-background-01-.jpg") no-repeat center fixed;
+    background-size: cover;
+
+}
+div {
+    width: 600px;
+    margin: 40px auto;
+    padding: 40px 75px;
+    background-color: white;
+    border-radius: 25px;
+}
+.red {
+    border: 2px solid #E44026;
+    box-shadow: 2px 2px rgb(231, 97, 64)
+}
+.js {
+    border: 2px solid #f7df1e;
+    box-shadow: 2px 2px #f7df1e
+}
+.css {
+border: 2px solid rgb(1, 112, 186);
+    box-shadow: 2px 2px rgb(1, 112, 186)
+}
+h1 { 
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 46px;
+    text-shadow: 2px 2px black
+}
+img { 
+    width: 30px;
+    height: 30px;
+    vertical-align: middle
+}
